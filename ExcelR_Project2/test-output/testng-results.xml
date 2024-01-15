@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-15T17:18:04 IST" name="Default suite" finished-at="2024-01-15T17:18:18 IST" duration-ms="13686">
+    <groups>
+    </groups>
+    <test started-at="2024-01-15T17:18:04 IST" name="Default test" finished-at="2024-01-15T17:18:18 IST" duration-ms="13686">
+      <class name="TestProject2.TestClass">
+        <test-method is-config="true" signature="Beforetest()[pri:0, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:04 IST" name="Beforetest" finished-at="2024-01-15T17:18:07 IST" duration-ms="2760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest -->
+        <test-method signature="product1()[pri:1, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:07 IST" name="product1" finished-at="2024-01-15T17:18:08 IST" duration-ms="1318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product1 -->
+        <test-method signature="product2()[pri:2, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:08 IST" name="product2" finished-at="2024-01-15T17:18:09 IST" duration-ms="849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product2 -->
+        <test-method signature="product3()[pri:3, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:09 IST" name="product3" finished-at="2024-01-15T17:18:10 IST" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product3 -->
+        <test-method signature="product4()[pri:4, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:10 IST" name="product4" finished-at="2024-01-15T17:18:11 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product4 -->
+        <test-method signature="product5()[pri:5, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:11 IST" name="product5" finished-at="2024-01-15T17:18:12 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product5 -->
+        <test-method signature="product6()[pri:6, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:12 IST" name="product6" finished-at="2024-01-15T17:18:13 IST" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product6 -->
+        <test-method signature="logintest()[pri:7, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:13 IST" name="logintest" finished-at="2024-01-15T17:18:13 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="logouttest()[pri:8, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:13 IST" name="logouttest" finished-at="2024-01-15T17:18:13 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logouttest -->
+        <test-method signature="Cartdisplaytest()[pri:9, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:13 IST" name="Cartdisplaytest" finished-at="2024-01-15T17:18:13 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cartdisplaytest -->
+        <test-method signature="HomePagedisplayTest()[pri:10, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:13 IST" name="HomePagedisplayTest" finished-at="2024-01-15T17:18:13 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePagedisplayTest -->
+        <test-method signature="addproductTest()[pri:11, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:13 IST" name="addproductTest" finished-at="2024-01-15T17:18:14 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproductTest -->
+        <test-method signature="RemoveproductTest()[pri:12, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:14 IST" name="RemoveproductTest" finished-at="2024-01-15T17:18:18 IST" duration-ms="4325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveproductTest -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:TestProject2.TestClass@235834f2]" started-at="2024-01-15T17:18:18 IST" name="AfterTest" finished-at="2024-01-15T17:18:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- TestProject2.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
